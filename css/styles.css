@@ -15,6 +15,7 @@ p{
 }
 img{
   opacity: 0.8;
+
 }
 body {
   background: linear-gradient(
@@ -24,4 +25,7 @@ body {
     ),url("../img/photo2.jpg");
 
 
+}
+img{
+  float:center;
 }
