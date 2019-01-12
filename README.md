@@ -1,7 +1,7 @@
 # _florin-mirica-portfolio_
 #### _Work Portfolio, 2019_
 #### By _**Florin Mirica**_
-GitHub link: https://github.com/florinmirica/portfolio.git
+GitHub link: https://florinmirica.github.io/portfolio/
 
 ## Description
 
