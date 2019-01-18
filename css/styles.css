@@ -13,9 +13,12 @@ p{
   font-style: italic;
   font-weight: lighter;
 }
-img{
+img {
   opacity: 0.8;
+
 }
+.class1{float: right}
+
 body {
   background: linear-gradient(
       to bottom,
@@ -23,5 +26,9 @@ body {
       rgba(255,255,255,50)
     ),url("../img/photo2.jpg");
 
-
+}
+.my-class {
+  margin: 12px;
+  border: 2px solid blue;
+  padding: 25px;
 }
